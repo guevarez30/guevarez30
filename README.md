@@ -1,8 +1,5 @@
 # 💫 About Me:
-Building Better Backends<br>Looking to solve complex problems, while ensuring security, performance, and scalability.<br>Linux Nerd in training. <br>Two truths and a lie:<br> 
-  - I use vim to write my code<br> 
-  - I started my journey as an aerospace engineer
-  - null == undefined
+Building Better Backends<br>
 
 
 ## 🌐 Socials:
