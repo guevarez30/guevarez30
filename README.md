@@ -9,8 +9,6 @@
 
 <h2>🚀 What I Do</h2>
 
-<p><em>Throughout my career, I've contributed to privately self-hosted GitLab repositories, building production systems that scale.</em></p>
-
 <h3><a href="https://teamraft.com/"><img src="https://teamraft.com/wp-content/uploads/Raft-Logo-Main.svg" alt="Raft" height="20"/></a></h3>
 <p>Currently building scalable data and AI solutions for mission-critical applications</p>
 
