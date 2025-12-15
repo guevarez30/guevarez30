@@ -1,10 +1,13 @@
-<h1>About Me:</h1>
-<p>Building Better Backends • Orchestrating Distributed Systems • Shipping Product</p>
-
-<div align="left">
+<h1>About Me:
   <a href="https://www.linkedin.com/in/taylor-guevarez-63b177127" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+</h1>
+<p>Building Better Backends • Orchestrating Distributed Systems • Shipping Product</p>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guevarez30&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 <h2>🚀 What I Do</h2>
@@ -75,6 +78,8 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=guevarez30&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+[![](https://visitcount.itsvg.in/api?id=guevarez30&icon=0&color=0)](https://visitcount.itsvg.in)
 
