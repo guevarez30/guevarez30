@@ -6,10 +6,6 @@
 <p>Building Better Backends • Orchestrating Distributed Systems • Shipping Product</p>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guevarez30&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
 <h2>🚀 What I Do</h2>
 
 <h3><a href="https://teamraft.com/"><img src="https://teamraft.com/wp-content/uploads/Raft-Logo-Main.svg" alt="Raft" height="20"/></a></h3>
